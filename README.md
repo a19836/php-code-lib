@@ -1,7 +1,7 @@
 # PHP Code Lib
 
 > Original Repos:   
-> - PHP Code Lib: https://github.com/a19836/phpcodelib/   
+> - PHP Code Lib: https://github.com/a19836/php-code-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
